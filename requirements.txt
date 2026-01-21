@@ -1,0 +1,99 @@
+aiohttp
+blackboxprotobuf
+
+Run Command 👇
+Bash
+pkg update && pkg upgrade -y
+🔹 Next 👇
+Bash
+pkg install python -y
+🔹 Next 👇
+Bash
+pkg install clang -y
+🔹 Next 👇
+Bash
+pkg install libffi openssl -y
+🔹 Next 👇
+Bash
+pkg install python-pip -y
+🔹 Next 👇
+(Ensure requirements.txt same folder me ho)
+Bash
+pip install -r requirements.txt
+🔹 Final Command 👇
+Bash
+python GojoBundleSpin.py
+📌 Input Note (Important)
+Script run hone ke baad jab bole:
+
+Enter Your Guest Account Path
+To path aise do 👇
+Text
+/sdcard/guestAcc.json
+
+
+Run Command 👇
+
+pkg update && pkg upgrade -y
+Next 👇
+
+pkg install python -y
+Next 👇
+
+pkg install clang -y
+Next 👇
+
+
+
+
+API CAPTURING AND API MAKING COURSE IS FOR SALE ⚙️
+In this course we learn how to create APIs and how to capture any APIs from external websites or applications, also learned how to ssl patch any application for capturing the data, also learnt how the APIs works at all. 😴
+
+🎁 What you'll learn :
+• how to capture the APIs 
+• learn how to patch any applications 
+• how we can create our api 
+• what's the use of api
+• and how we can use APIs.
+VIDEO COURSES AVILABLE WITH VOICE & PDFS 🥂
+#COURSE_WAS_RECORDED_BY_TEAM_CHX 💙
+😍 COAST: 600₹
+
+0️⃣ DEMO FREE CLASSES LINK:
+@ONE_DAY_FREE_CLASS
+
+😋 MESSAGE ME HERE TO BUY: @I_AM_DIPALI | @NEVER_DELETE | LIMITED DEAL 
+
+
+
+
+
+Run Command 👇
+
+pkg update && pkg upgrade -y
+🔹 Next 👇
+
+pkg install python -y
+🔹 Next 👇
+
+pkg install clang -y
+🔹 Next 👇
+
+pkg install libffi openssl -y
+🔹 Next 👇
+
+pkg install python-pip -y
+🔹 Next 👇
+(Ensure requirements.txt same folder me ho)
+
+pip install -r requirements.txt
+🔹 Final Command 👇
+
+python GojoBundleSpin.py
+📌 Input Note (Important)
+Script run hone ke baad jab bole:
+
+Enter Your Guest Account Path
+To path aise do 👇
+
+/sdcard/guestAcc.json
